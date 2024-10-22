@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "notions",
+  "info": {
+    "singularName": "notion",
+    "pluralName": "notions",
+    "displayName": "Notion"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tableData": {
+      "type": "json"
+    }
+  }
+}
